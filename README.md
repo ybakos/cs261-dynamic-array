@@ -8,9 +8,9 @@ Oh, and we'll practice linear and binary search too, with maybe some bonuses for
 
 ## Run the Test Suite
 
-`python3 -m unittest test_sorted_list`
+`python3 -m unittest test_dynamic_array`
 
-Open both *test_sorted_list.py* and *sorted_list.py* in your editor of choice. Modify the implementation in *sorted_list.py* to pass the first test. Once it passes, create a commit. Then, uncomment the next test, and re-run the test suite. Implement what's necessary to pass the test, and then repeat this process.
+Open both *test_dynamic_array.py* and *dynamic_array.py* in your editor of choice. Modify the implementation in *dynamic_array.py* to pass the first test. Once it passes, create a commit. Then, uncomment the next test, and re-run the test suite. Implement what's necessary to pass the test, and then repeat this process.
 
 **But wait!**
 
